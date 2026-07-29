@@ -12,14 +12,14 @@ Currently focused on:
 
 ## Tech Stack
 
-Languages: Python, SQL, C++ <br>
-Machine Learning: Scikit-learn, XGBoost, PyTorch, TensorFlow <br>
-AI: LLMs, RAG, LangChain, AI Agents <br>
-Backend: FastAPI, Flask, REST APIs <br>
-Data: Pandas, NumPy, PostgreSQL <br>
-Tools: Git, GitHub, Docker <br>
+**Languages:** Python, SQL, C++ <br>
+**Machine Learning:** Scikit-learn, XGBoost, PyTorch, TensorFlow <br>
+**AI:** LLMs, RAG, LangChain, AI Agents <br>
+**Backend:** FastAPI, Flask, REST APIs <br>
+**Data:** Pandas, NumPy, PostgreSQL<br>
+**Tools:** Git, GitHub, Docker
 
 ---
-You can check my resume on this [Link](https://drive.google.com/file/d/1yvLEMGW6fdGE8BiAIM1Ibki0EkdbWC_h/view?usp=drive_link) 
+You can checkout my resume on this [Link](https://drive.google.com/file/d/1yvLEMGW6fdGE8BiAIM1Ibki0EkdbWC_h/view?usp=drive_link) 
 
 > Building. Learning. Shipping. 🚀
