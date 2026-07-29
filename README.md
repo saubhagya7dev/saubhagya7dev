@@ -1,7 +1,7 @@
-# Hi, I'm Saubhagya 👋
+#### Hi, I'm Saubhagya 
 
 AI/ML Engineer in the making, building intelligent systems with
-Machine Learning, Deep Learning, LLMs, and Agentic AI.
+Machine Learning, Deep Learning, LLMs, Rag systems, Data pipeline and Agentic AI.
 
 Currently focused on:
 -  Machine Learning & Deep Learning
