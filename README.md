@@ -12,18 +12,11 @@ Currently focused on:
 
 ## Tech Stack
 
-**Languages:** Python, Java, SQL, C++
-
+**Languages:** Python, SQL, C++
 **Machine Learning:** Scikit-learn, XGBoost, PyTorch, TensorFlow
-
 **AI:** LLMs, RAG, LangChain, AI Agents
-
 **Backend:** FastAPI, Flask, REST APIs
-
 **Data:** Pandas, NumPy, PostgreSQL
-
 **Tools:** Git, GitHub, Docker
-
 ---
-
 > Building. Learning. Shipping. 🚀
