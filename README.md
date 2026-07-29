@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Saubhagya 👋
 
-<!--
-**saubhagya7dev/saubhagya7dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML Engineer in the making, building intelligent systems with
+Machine Learning, Deep Learning, LLMs, and Agentic AI.
 
-Here are some ideas to get you started:
+Currently focused on:
+-  Machine Learning & Deep Learning
+-  LLMs, RAG & AI Agents
+-  AI for Financial Intelligence & Fraud Detection
+-  Building production-ready AI systems
+-  Open Source & Developer Communities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Languages:** Python, Java, SQL, C++
+
+**Machine Learning:** Scikit-learn, XGBoost, PyTorch, TensorFlow
+
+**AI:** LLMs, RAG, LangChain, AI Agents
+
+**Backend:** FastAPI, Flask, REST APIs
+
+**Data:** Pandas, NumPy, PostgreSQL
+
+**Tools:** Git, GitHub, Docker
+
+---
+
+> Building. Learning. Shipping. 🚀
