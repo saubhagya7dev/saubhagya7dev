@@ -1,6 +1,6 @@
 #### Hi, I'm Saubhagya 
 
-AI/ML Engineer in the making, building intelligent systems with
+AI/ML Engineer, building intelligent systems with
 Machine Learning, Deep Learning, LLMs, Rag systems, Data pipeline and Agentic AI.
 
 Currently focused on:
@@ -20,6 +20,6 @@ Currently focused on:
 **Tools:** Git, GitHub, Docker
 
 ---
-You can checkout my resume on this [Link](https://drive.google.com/file/d/1yvLEMGW6fdGE8BiAIM1Ibki0EkdbWC_h/view?usp=drive_link) 
+You can checkout my resume on this [Link](https://drive.google.com/file/d/1O8SR82kyDT0U4UF86csqMk5lBRRhVvfB/view?usp=sharing) 
 
 > Building. Learning. Shipping. 🚀
