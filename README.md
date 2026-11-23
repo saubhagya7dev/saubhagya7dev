@@ -20,6 +20,6 @@ Currently focused on:
 **Tools:** Git, GitHub, Docker
 
 ---
-You can checkout my resume on this [Link](https://drive.google.com/file/d/1O8SR82kyDT0U4UF86csqMk5lBRRhVvfB/view?usp=sharing) 
+You can checkout my resume on this [Link](https://drive.google.com/file/d/1ZD-rNzUVC8pze9LNMNSSvM7-TGP2K86w/view?usp=sharing)
 
 > Building. Learning. Shipping. 🚀
